@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div> 
-  <a href = "mailto:a.carolina230@hotmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Logo.png)" target="_blank"></a>
+  <a href = "mailto:a.carolina230@hotmail.com"><img src="![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacfranca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
